@@ -1,0 +1,33 @@
+body{
+    margin: 0px;
+    background-image: url(image/wp2874989.jpg);
+    background-size: cover;
+    box-sizing: border-box;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+#y1{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    width: 100%;
+}
+#y1 ul{
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+    display: flex;
+}
+#y1 a{
+    color: white;
+    text-decoration: none;
+    padding: 5px;
+}
+#y1 a:hover{
+    background-color: brown;
+}
+.a1{
+    background-color: white;
+    width: 30%;
+    display: flex;
+}

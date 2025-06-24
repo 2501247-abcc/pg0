@@ -1,0 +1,56 @@
+body{
+    margin: 0px;
+    background-image: url(image/163821.jpg);
+    background-size: cover;
+    box-sizing: border-box;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+#y1{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    width: 100%;
+}
+#y1 ul{
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+    display: flex;
+}
+#y1 a{
+    color: white;
+    text-decoration: none;
+    padding: 5px;
+}
+#y1 a:hover{
+    background-color: brown;
+}
+.m1{
+    color: white;
+    text-align: center;
+}
+.m2{
+    text-align: center;
+    color: white;
+}
+.m2 img{
+    width: 35%;
+    height: 50%;
+}
+.m3{
+    text-align: center;
+    color: white;
+}
+.m3 img{
+    width: 35%;
+    height: 50%; 
+}
+.m4{
+    text-align: center;
+    color: white;
+}
+.m4 img{
+    width: 35%;
+    height: 80%;
+}
