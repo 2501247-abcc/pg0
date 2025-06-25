@@ -47,6 +47,13 @@ video{
 .video{
     text-align: center;
 }
+.c1{
+    display: flex;
+    justify-content: space-around;
+}
 .g1{
-    
+    color: white;
+}
+.g2{
+    color: white;
 }
