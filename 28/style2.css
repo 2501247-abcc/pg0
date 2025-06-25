@@ -35,7 +35,7 @@ video{
 }
 .c4 img{
     position: fixed;
-    top: 30px;
+    top: 43px;
     left: 0px;
     width: 20%;
     height: 20%;
@@ -46,4 +46,7 @@ video{
 }
 .video{
     text-align: center;
+}
+.g1{
+    
 }
